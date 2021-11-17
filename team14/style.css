@@ -3,6 +3,23 @@
 /* Judy did: body, a:hover, p, h3, and h1 css */
 /* Judy did it all */
 
+#link{
+    border-style: solid;
+    border-color: #f6e9ee;
+    border-width: 10px;
+    color: black;
+}
+
+a {
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+table {
+padding-left: 200px;
+padding-right: 200px;
+}
+
 #flower {
 
     background-image: url("Screen\ Shot\ 2.png");
