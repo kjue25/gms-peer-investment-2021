@@ -18,7 +18,7 @@ padding-bottom: 0px;
 p { 
     font-family: 'Raleway', sans-serif;
     Text-align :center;
-    font-size:20px;
+    font-size:23px;
 }
 
 table { 
@@ -51,4 +51,20 @@ a:hover {
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 5px;
+}
+
+iframe {
+
+padding-left: 20px;
+padding-right: 20px;
+
+
+}
+
+#hometext {
+
+padding: 5px;
+border-style: groove;
+border-width: 5px;
+
 }
