@@ -1,0 +1,31 @@
+/* Celine did this: */
+#navbar {
+    background-color: #ffcfdf;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#f28fb0 ;
+    word-spacing: 10px;
+}
+#colors li{
+    color: #f0a1bc;
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
+#navbar li {
+    display: inline-block;
+    
+}
+#navbar a{
+    color: white;
+    text-decoration: none;
+}
+p {
+    color: #f0a1bc;
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
+h1 {
+    color:#f28fb0 ;
+    font-family: 'Dongle', sans-serif;
+    font-size: 50px;
+}

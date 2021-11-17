@@ -1,0 +1,74 @@
+/* Karuna made this file 11/1/2021  */
+/* Karuna added style 11/2/2021 */
+/* Karuna edited this file/ added style  */
+/* Karuna added style 11/9/2021 */
+/* jaya edited the navbar */
+/* Jaya edited style in the site like the format */
+#navbar {
+background-color: #ffdbe9;
+border-style: solid;
+font-family: 'Courier New', Courier, monospace;
+text-align: center
+}
+
+#navbar li {
+display:inline-block;
+padding: 20px;
+}
+
+h1 {
+color: pink;
+font-family: 'Courier New', Courier, monospace;
+font-size: 50px;
+text-align: center
+
+}
+
+h3 {
+color: #fa86c4;
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+}
+
+p {
+color: #fc94af;
+font-size: 20px;
+font-family: 'Courier New', 
+}
+
+h2 {
+color: #f79ac0;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace; 
+text-align: center
+}
+
+#lipscrub {
+text-align: left
+}
+
+#bodyscrub {
+    text-align: center
+}
+
+#footscrub {
+    text-align: right
+}
+
+#jujubitmoji
+img-align: :left
+
+#jayabitmoji 
+img-align: center
+
+#runzbitmoji
+img-align: :right
+
+h4 {
+font-size: 30px;
+text-align: center;
+}
+
+#Scrub Hub (1).png {
+    img-align: :left
+}

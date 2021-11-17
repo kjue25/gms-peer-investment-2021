@@ -1,0 +1,45 @@
+/* File created by Caperton on 11/1 */
+/* navbar + text style added by Kat on 11/8*/
+/* worked on font + font size, planning site layout + writing about us*/
+#navbar {
+   background-color: paleturquoise;
+   border-style: groove;
+   border-width: 2px;
+   border-color: black;
+    
+}
+
+#navbar li {
+    display: inline-block
+    
+
+}
+
+#navbar a {
+    color: black;
+    
+    
+}
+h1 {
+
+    text-align: center;
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 65px;
+}
+h4 {
+    margin: 90px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px
+
+
+}
+
+img{
+    margin: 30px;
+
+}
+
+p {
+    text-align: center;
+
+}

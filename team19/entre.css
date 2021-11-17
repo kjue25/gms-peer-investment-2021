@@ -1,0 +1,23 @@
+/* Elaine-changed border*/
+#navbar {
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+}
+#navbar li {
+    display: inline-block;
+    padding: 10px;
+
+
+}
+
+
+
+#navbar a {
+    color: yellow;
+    font-size: x-large;
+    
+}
+
+
+/* comments*/

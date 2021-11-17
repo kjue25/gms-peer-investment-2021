@@ -1,0 +1,59 @@
+/* File created by Annika on 11/1  */
+h3 {
+    color: black;
+    font-size: 70px;
+    font-family: cursive;
+    border-color:black;
+    border-style: dotted;
+}
+ 
+h2 {
+    color: black;
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color:  #faf5ff;
+ }
+ 
+ 
+   /* Search "hex color picker" in Google to pick a color by hex value */
+h5 {  color: black;
+    font-size: 15px;
+    font-family: cursive;
+}   
+ 
+ body {border-style: dotted;
+    border-width: 5px;
+     border-color:black} 
+     /* changed headers to smaller fonts and ajusted pictures by annika on 11/15 */
+   
+     table { text-align: center; }
+
+   
+
+
+
+    
+
+
+
+
+
+
+
+
+/* 
+#c1d8f5 light blue
+
+
+#d6d0d0 light grey */
+
+
+
+
+
+
+
+
+
+   
+    
+

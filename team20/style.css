@@ -1,0 +1,15 @@
+
+
+#navbar {
+border-style:solid;
+background-color: purple;
+  border-width: 4px;
+    
+}
+#navbar li {
+display: inline-block;
+
+}
+#navbar a {
+color: White
+}

@@ -1,0 +1,37 @@
+/* File Created by Jade 11/1 */
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
+#navbar {
+ background-color: FF9A7E;
+border-style: solid;
+border-width: 2px;
+border-color: E65D37;
+font-family: 'Karla', sans-serif;
+font-size: 20px;
+}
+
+#navbar li {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+#navbar a {
+    color: white; 
+}
+
+h1 {
+font-family: 'Nixie One', cursive;
+text-align: center; 
+font-size: 50px;
+}
+
+img {
+  align-items: center; 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

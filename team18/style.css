@@ -1,0 +1,86 @@
+/* File created by Jane on 11/1 */
+/* Navbar added by Jane on 11/3 */
+/* Styling edited by Liana on 11/9 */
+/* Styling done by Liana on morning of11/15 */
+#navbar{ 
+    background-color: rgb(230, 216, 216);
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+li{
+    display: inline-block;
+    padding-left:  25px;
+    text-align: center;
+    font-family: Optima, sans-serif;
+}
+
+ul{
+    display: inline-block;
+}
+
+body{
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(212, 196, 196);
+}
+
+h1{
+    text-align: center;
+    font-family: Optima, sans-serif;
+    color: #D4ADAD
+    
+    
+}
+
+h3{
+    text-align: center;
+    font-family: Optima, sans-serif;
+    color: #D4ADAD
+}
+
+h5{
+    text-align: center;
+    font-family: Optima, sans-serif;
+    color:  #D4ADAD
+}
+ 
+p{
+    font-family: Optima, sans-serif;
+    color: #D4ADAD
+}
+
+img{
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#img1{
+    display: block;
+    margin: 0 auto;
+}
+#img2{
+    display: block;
+    margin: 0 auto;
+}
+
+.desc1{
+    width: 200px;
+    
+  }
+
+.desc2{
+    float: right;
+    position: relative;
+    width:200px;
+}

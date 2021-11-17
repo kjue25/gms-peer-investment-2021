@@ -1,0 +1,67 @@
+h1 {
+    color: black;
+    font-size: 60px;
+    font-family: 'Butterfly Kids', cursive;
+    text-align: center;
+    }
+     
+h2 {
+    color: white;
+    font-family: cursive; 
+    background-color: black;
+    text-align: center;
+    }
+     
+p {
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    }
+
+body {
+    background-color: #fffbf0;
+    text-align: center;
+    }
+
+img {
+    border-width: 4px;
+    border-color: black;
+    border-style: dotted;
+
+    padding: 10px;
+
+    margin: 30px;
+   
+}
+
+#navbar {
+    color:black
+}
+
+#navbar li {
+    display: inline-block;
+    text-align: left;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+#navbar :hover {
+   text-decoration: underline;
+}
+ 
+a {
+    text-align: center;
+    color: black;
+}
+
+
+h3 {
+    color:black;
+    font-size: 27px;
+    font-family:Raleway;
+}

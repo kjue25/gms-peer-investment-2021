@@ -1,0 +1,196 @@
+/* Vivi edited 11-1-21 */
+/* Livi edited 11-2-21 */
+/* Carina edited 11-2-21 */
+
+
+
+
+
+
+
+
+img:hover{
+    transform: scale(1.05);
+}
+a:hover{
+    color: white;
+}
+h2:hover{
+color: white;
+}
+h1{
+    color:#A9CCE3;
+    font-family: cursive;
+    font-size:150;
+    text-align:center
+
+}
+#COGS:hover{
+    transform: scale(1.05);
+
+}
+#Fairy_Lights:hover{
+    transform: scale(1.05);
+}
+#navbar{
+    text-align:left;
+}
+img{
+    border-radius: 60px;
+    border-style: none;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+#index{
+    border-style: solid;
+    border-width: 20px;
+    border-color: whitesmoke;
+    background-image: url("Company.jpg");
+    background-color: #cccccc;
+    background-color: whitesmoke;
+    text-align:center;
+    font-family: cursive;
+    margin:10px;
+    font-family: cursive;
+    color: white;
+}
+    
+#price{
+        border-style: solid;
+        border-width: 20px;
+        border-color: whitesmoke;
+    
+        background-image: url("Company.jpg");
+         
+        background-color: #cccccc;
+        background-color: whitesmoke;
+        text-align:center;
+        font-family: cursive;
+        margin:10px;
+        font-family: cursive;
+        color: white;
+}
+
+#company{
+    border-style: solid;
+    border-width: 20px;
+    border-color: whitesmoke;
+    background-image: url("Company.jpg");
+    scroll-behavior: smooth;
+    background-color: #cccccc; 
+    background-color: whitesmoke;
+    text-align:center;
+    font-family: cursive;;
+    margin:10px;
+    font-family: cursive;
+    color: white;
+    
+}
+    a{
+    font-weight:bold;
+    font-size:25px;
+    cursor: -webkit-grab;
+     }
+     a:hover{
+         font-size:27px;
+         transition:all 500ms;
+         font-size-adjust:5px;
+     }
+
+h2{
+    color:#b4d1e0; 
+    text-shadow: black;
+}
+
+p{
+    Color:#b4d1e0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+    
+}
+h1 {
+   
+
+    font-family: cursive ; color:whitesmoke;
+    font-size: 75px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: whitesmoke
+}
+
+
+#navbar {
+    background-color: #8b94a3;
+    border-style: solid;
+    border-width: 2px;
+    
+    }
+
+    #navbar li {
+    display:inline-block;
+    }
+    
+    #navbar a {
+    color: white;
+    background-color: rgb(74, 95, 125);
+    border-radius: 10px;
+    text-decoration: none;
+    }
+    
+    
+    #companyheader{
+        font-size: 60px;
+    }
+    
+    
+
+    #COGS{
+        text-align:left
+    }
+
+    #Fairy_lights{
+        text-align: right;
+    }
+    
+   
+    body {
+        background-size: 400% 400%;
+        animation: gradient 300s ease infinite;
+
+    }
+
+    table{
+        text-align: center;
+        Color:#b4d1e0;
+        font-family: 'Courier New', Courier, monospace;
+        font-size:15px;
+    }
+
+
+    #names{
+        font-size:20px;
+        color: white; 
+    }
+
+.company_photos {
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    }
+    
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        0% {
+            background-position: 0% 50%;
+        }
+        
+    }
+   
+
+    

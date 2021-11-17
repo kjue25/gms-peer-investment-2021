@@ -1,0 +1,62 @@
+
+#navbar {
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#navbar li {
+    display: inline-block;
+}
+
+#navbar {
+    color: plum;
+}
+
+#title1 {
+    color: plum;
+}
+
+#AU {
+    text-align: center;
+}
+
+#m {
+    text-align: center;
+}
+
+#c {
+    text-align: center;
+}
+
+#e {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    border-style: dotted;
+    border-color: plum;
+}
+
+body {
+    font-family: serif;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+
+p {
+    text-size-adjust: 24;
+}
+

@@ -1,0 +1,59 @@
+/* Naomi added the background color
+Naomi received the code to remove the bullets by looking at the first internet response
+Naomi got how to make the navigation bar centered from the glow garden website
+Got navigation bar styling from agachi scrunchies
+Naomi worked on adding things to the navigation bar
+Got navi bar to to stay on one line with code from agachi scrunchies */
+/* reverted nav bar and made name bigger */
+p{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+html{
+  background-image: url(background.jpeg);
+}
+#nb {
+    text-align: center;
+    border-style: ridge;
+    border-color: cadetblue;
+    margin: 12px;
+    font-size: 23;
+    background-image: url(navbar.jpeg)
+
+}
+div{
+    display: block;
+} 
+
+ul{
+    list-style-type: none
+}
+#title{
+    font-size: 30px;
+}
+img{
+    width: 400px;
+}
+#Sam{
+    width: 50px;
+}
+#Naomi{
+    width: 50px;
+}
+#COG:hover{
+    filter: brightness(50%);
+}
+body{
+    text-align: center;
+}
+#title,h1,h2,h3{
+    font-family: 'Dancing Script', cursive;
+}
+#navtext{
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    text-decoration-style:none;
+}
