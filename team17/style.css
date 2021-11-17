@@ -1,62 +1,53 @@
-
-#navbar {
-font-family: 'Raleway Dots', cursive;
-font-size: 25px;
-background-image: url("Headerimg.png");
-padding-bottom: 0px;
-}
-
-
-
-#navbar li {  
-    display: inline-block;
-    border-style:radius;
-    color: rgb(52, 97, 10);
-    padding: 5px;
-}
-
-p { 
-    font-family: 'Raleway', sans-serif;
-    Text-align :center;
-    font-size:20px;
-}
-
-table { 
-    font-family: 'Raleway', sans-serif;
-    text-align:center;
-
-}
-
-a:link {
-
-text-decoration: none;
-color: black;
-}
-
-h1  {
-    font-family: 'Raleway', sans-serif;
-    font-size:30px;
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
-a:hover {
-
-    text-decoration: underline;
-    color: rgb(26, 0, 53);
+ 
+h2 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;  
+}
    
+body {
+    background-color: #7a7a7a;
+    border-style: black;
+
 }
 
-#shop td { 
-    font-family: 'Raleway', sans-serif;
-    text-align:center;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 5px;
+
+ 
+p {
+    color: #ffade0;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
 }
 
-iframe {
+img {
+border-style:groove;
+border-width: 5px;
+border-color:black;
+}
 
-padding-left: 20px;
-padding-right: 20px;
+#navbar {
+    background-color:#f0f4f7;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #6994b3;
 
+}
+
+#navbar li {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right:10px ;
+}
+
+a:hover{
+text-decoration: underline;
 
 }
