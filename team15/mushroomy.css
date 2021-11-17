@@ -1,3 +1,4 @@
+/* Lucy finished this file on 11/15/21 */
 body {
   text-align: center;
   background-color: #f0f4f7;
@@ -5,7 +6,7 @@ body {
   height: 675px;
   border-bottom: 15px;
   border-top: 15px;
-  font-size:large;
+  font-size:xx-large;
 }
  
 h3 {
@@ -55,7 +56,6 @@ h4{
     margin-left: 400px;
     margin-right: 650px;
     margin-bottom: 50px;
-    text-align: center;
 }
 p { 
     color: black;
@@ -89,4 +89,8 @@ border-color: #6994b3;
 a:hover{
 text-decoration: underline;
 
+}
+
+#title {
+    text-decoration: underline;
 }
