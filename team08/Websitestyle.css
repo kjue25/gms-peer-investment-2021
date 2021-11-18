@@ -5,6 +5,7 @@ h3 {
     font-family: cursive;
     border-color:black;
     border-style: dotted;
+
 }
  
 h2 {
@@ -28,9 +29,19 @@ h5 {  color: black;
      table { text-align: center; }
 
    
+#navbar{
 
+    
+    color: black;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 10;
+  }
 
-
+#logo {
+padding: 10;
+}
     
 
 

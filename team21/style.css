@@ -12,6 +12,11 @@
 img:hover{
     transform: scale(1.05);
 }
+a{
+    color:#b4d1e0; 
+    text-decoration: none;
+}
+
 a:hover{
     color: white;
 }
@@ -144,7 +149,10 @@ h1 {
     }
     
     
-
+#logo{
+    float:left;
+    display: inline-block;
+}
     #COGS{
         text-align:left
     }
@@ -153,21 +161,29 @@ h1 {
         text-align: right;
     }
     
-   
+   #music_words{
+       float: right;
+   }
     body {
         background-size: 400% 400%;
         animation: gradient 300s ease infinite;
 
     }
-
+#music{
+    float: right;
+}
     table{
         text-align: center;
         Color:#b4d1e0;
         font-family: 'Courier New', Courier, monospace;
         font-size:15px;
+        width: 100%;
     }
 
-
+iframe{
+    border-radius: 60px;
+    
+}
     #names{
         font-size:20px;
         color: white; 

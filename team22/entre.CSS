@@ -9,7 +9,7 @@
     border-width: 1px
 }
  
-#navbar li {
+#navbar li {   
     display: inline-block
 }
 
@@ -18,7 +18,7 @@
 }
 
 #navbar a:hover {
-    color: rgb(6, 6, 129);
+    color: #4a9cc9;
 }
 
 img {
@@ -35,17 +35,18 @@ p {
     font-family:  'Thasadith';
 }
 
-h1 {
+h3 {
     font-family: 'Dancing Script', cursive;
 }
 
 h1 {
     border-style: solid;
-    border-color: #a4d9f5
+    border-color: #a4d9f5;
 }
 
 #headers {
     width: 200px;
     margin: auto;
+    font-family: 'Dancing Script', cursive;
 }
 

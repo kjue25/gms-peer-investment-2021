@@ -1,22 +1,33 @@
 /* Elaine-changed border*/
 #navbar {
-    background-color: pink;
-    border-style: solid;
-    border-width: 2px;
+    background-color: rgb(126, 106, 201);
+    border-style: hidden;
+    border-width: none;
+    font-family: 'Courier New', Courier, monospace
 }
 #navbar li {
     display: inline-block;
     padding: 10px;
+    font-family: 'Courier New', Courier, monospace
+
+
+}
+body {
+
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(126, 106, 201), rgb(217, 214, 245));
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 
 
 }
 
 
-
 #navbar a {
-    color: yellow;
+    color: rgb(0, 0, 0);
     font-size: x-large;
-    
+    font-family: 'Courier New', Courier, monospace
+
 }
 
 

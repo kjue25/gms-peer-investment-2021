@@ -57,3 +57,10 @@ body{
 a{
     text-decoration-style:none;
 }
+#Logo{
+    width: 125;
+    height: 125;
+    position: absolute;
+    top: 20;
+    left: 80;
+}

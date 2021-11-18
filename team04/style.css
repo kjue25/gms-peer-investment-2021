@@ -1,7 +1,7 @@
 #navbar {
     background-color: rgb(169, 206, 172);
     border-style: double;
-    border-color: whitesmoke;
+    border-color: #e8fdff;
     border-width: 2px;
     text-align: center;
     font-family: fantasy;
@@ -15,7 +15,7 @@
 }
 
 a {
-    color: rgb(238, 236, 136)
+    color: #e8fdff
 }
 
 h1 {
@@ -48,7 +48,11 @@ img {
     height: 350px;
 }
 
-
+.icons {
+    border-style: solid;
+    border-width: 10px;
+    border-color: #f7f6be
+}
 
 /* File created by Kali K on 11/1/21 */
 /*Kali edited 11/15/21

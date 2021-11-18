@@ -21,6 +21,14 @@ body {
   padding-bottom: 0px;
   padding-top: 0px;
 }
+.im2 {
+  margin-left: 90px;
+  border-radius: 25px;
+  padding-right: 0mm;
+  padding-left: 0mm;
+  padding-top: 0mm;
+  padding-bottom: 0mm;
+}
 #swag {
   text-align: center;
 }
@@ -29,6 +37,11 @@ body {
 }
 .img {
   border-radius: 25px;
+}
+#vid {
+  border-radius: 25px;
+  margin-left: 465px;
+  margin-top: -250px;
 }
 .p {
   text-align: center;
@@ -68,6 +81,23 @@ body {
   text-align: center;
   margin-top: -70px;
   margin-left: 825px;
+}
+.cogs {
+  border-radius: 25px;
+  margin-left: 482px;
+}
+.co {
+  text-align: center;
+}
+#all {
+  margin-left: 90px;
+  padding-top: 0mm;
+  padding-bottom: 0mm;
+  padding-left: 0mm;
+  padding-right: 0mm;
+}
+#kf {
+  margin-left: 750px;
 }
 .one {
     text-align: center;
@@ -155,6 +185,37 @@ body {
   border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
 }
 #navbar1 a:hover {
+  left: 0;
+}
+#navbar2 {
+  border: solid;
+  border-color: #51026e;
+  outline: 6px dashed #AC069D;
+  box-shadow: 0 0 0 6px #0693AC;
+  width: 110px;
+  height: 65px;
+  margin-left: -50px;
+  animation: 1s animateBorderOne ease infinite;
+  margin-top: -70px;
+}
+@keyframes animateBorderOne {
+  to {
+    outline-color: #AC069D;
+    box-shadow: 0 0 0 10px #0693AC;
+  }
+}
+#navbar2 a {
+  position: absolute; /* Position them relative to the browser window */
+  left: -112px; /* Position them outside of the screen */
+  transition: 0.3s; /* Add transition on hover */
+  padding: 15px; /* 15px padding */
+  width: 100px; /* Set a specific width */
+  text-decoration: none; /* Remove underline */
+  font-size: 20px; /* Increase font size */
+  color: white; /* White text color */
+  border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+}
+#navbar2 a:hover {
   left: 0;
 }
 .div1 {

@@ -3,7 +3,7 @@
 /* Styling edited by Liana on 11/9 */
 /* Styling done by Liana on morning of11/15 */
 #navbar{ 
-    background-color: rgb(230, 216, 216);
+    background-color: rgb(214, 195, 216);
     text-align: center;
     position: sticky;
     top: 0;
@@ -25,37 +25,41 @@ body{
     text-align: center;
 }
 a{
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(212, 196, 196);
+    color: rgb(210, 188, 219);
 }
 
 h1{
     text-align: center;
     font-family: Optima, sans-serif;
-    color: #D4ADAD
-    
-    
+    color: rgb(205, 173, 212)   
+}
+
+h2{
+    text-align: center;
+    font-family: Optima, sans-serif;
+    color: rgb(205, 173, 212)
 }
 
 h3{
     text-align: center;
     font-family: Optima, sans-serif;
-    color: #D4ADAD
+    color: rgb(205, 173, 212)
 }
 
 h5{
     text-align: center;
     font-family: Optima, sans-serif;
-    color:  #D4ADAD
+    color:  rgb(205, 173, 212)
 }
  
 p{
     font-family: Optima, sans-serif;
-    color: #D4ADAD
+    color: rgb(205, 173, 212)
 }
 
 img{
@@ -75,12 +79,23 @@ img{
 }
 
 .desc1{
-    width: 200px;
-    
+   
+   
   }
 
 .desc2{
-    float: right;
-    position: relative;
-    width:200px;
+    
+    
+}
+
+.desc3{
+    
+}
+
+.desc4{
+   
+   
+}
+table{
+    width: 100%;
 }

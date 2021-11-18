@@ -52,4 +52,11 @@ h1 {
        font-family: 'Praise', cursive;
     }
 
-    
+    #head {
+        font-size: 50px;
+    }
+
+    #pic {
+        border-width: 30px;
+        border-color: navy;
+    }

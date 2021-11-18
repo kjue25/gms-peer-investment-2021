@@ -55,20 +55,19 @@ text-align: left
     text-align: right
 }
 
-#jujubitmoji
-img-align: :left
-
-#jayabitmoji 
-img-align: center
-
-#runzbitmoji
-img-align: :right
-
 h4 {
-font-size: 30px;
+font-size: 20px;
 text-align: center;
+font-family: 'Courier New', Courier, monospace;
 }
 
-#Scrub Hub (1).png {
-    img-align: :left
+#logo {
+    float: left;
+    display:block ;
+}
+
+td {
+    vertical-align: top;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 8px;
 }

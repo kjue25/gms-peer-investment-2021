@@ -18,6 +18,11 @@
 #navbar a{
     color: white;
     text-decoration: none;
+    border-style: solid;
+    border-color: white;
+    padding: 7px;
+    border-width: 1px;
+    border-radius: 25px;
 }
 p {
     color: #f0a1bc;
@@ -28,4 +33,20 @@ h1 {
     color:#f28fb0 ;
     font-family: 'Dongle', sans-serif;
     font-size: 50px;
+    text-align: center;
+}
+.fonts{
+    font-size: 40px;
+}
+img {
+    width: 280px;
+    padding: 40px;
+}
+#table {
+    text-align: center;
+}
+h6 {
+    color: #f0a1bc;
+    font-family: 'Dongle', sans-serif;
+    font-size: 20px;
 }

@@ -3,7 +3,7 @@
 #navbar{
 border-style:solid;
 border-width: 10px;
-background-color:#b0fcff;
+background-color: #e1e4e8;
 text-align: center;
 border-color:white;
 font-family:cursive;
@@ -15,7 +15,8 @@ font-family:cursive;
 
 
 body {
-    background-color:#ebebeb;
+    background-color:#dde2eb;
+    text-align: center;
 }
 
 h1 { 
@@ -43,7 +44,7 @@ h3 {
 }
 
 tr {
-    color:#ebebeb; 
+    color:black; 
 }
 
 #hi {
@@ -58,4 +59,10 @@ tr {
     flex: 33.33%;
     padding: 5px;
     }
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
     
