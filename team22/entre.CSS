@@ -1,10 +1,14 @@
+
 /*Katie made this file on 11/1/21*/
 /*Katie wrote the code for the navbar on 11/2/21*/
 /*Katie added the code for images on 11/9/21*/
 /*Anika and Katie added the font for the <p> tags on 11/15/21*/
+/*Katie changed the background and title border color then changed the navbar font, decoration, decoration color, and size on 11/18/21*/
+/*Anika removed the decoration for the headers over the images on 11/18/21*/
+
 
 #navbar {
-    background-color: rgb(233, 233, 233);
+    background-color: rgb(216, 248, 253);
     border-style: solid;
     border-width: 1px
 }
@@ -15,20 +19,28 @@
 
 #navbar a {
     color: rgb(0, 0, 0);
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    text-decoration: none
 }
 
 #navbar a:hover {
-    color: #4a9cc9;
+    color: #426274;
 }
 
 img {
     border-color: black;
     border-style: solid;
     border-width: 3px;
+    
 }
+
+
+
 
 body {
     text-align: center;
+    background-color: rgb(205, 226, 231);
 }
 
 p {
@@ -41,12 +53,27 @@ h3 {
 
 h1 {
     border-style: solid;
-    border-color: #a4d9f5;
+    border-color: #426274;
+    background-color: rgb(216, 248, 253);
 }
 
 #headers {
     width: 200px;
     margin: auto;
     font-family: 'Dancing Script', cursive;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    text-decoration-color: #426274;
+}
+
+h2 { 
+
+font-family: 'Dancing Script', cursive;    
+
 }
 

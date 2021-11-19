@@ -4,18 +4,25 @@
 /* Karuna added style 11/9/2021 */
 /* jaya edited the navbar */
 /* Jaya edited style in the site like the format */
+/* Jaya made some final changes with Karuna with style like the navbar on 11/18*/
 #navbar {
 background-color: #ffdbe9;
 border-style: solid;
 font-family: 'Courier New', Courier, monospace;
-text-align: center
+text-align: center;
+color:gray;
 }
 
 #navbar li {
 display:inline-block;
 padding: 20px;
+
 }
 
+#navbar a {
+    color: grey;
+    font-size: 25px
+}
 h1 {
 color: pink;
 font-family: 'Courier New', Courier, monospace;
@@ -64,10 +71,23 @@ font-family: 'Courier New', Courier, monospace;
 #logo {
     float: left;
     display:block ;
+    
 }
 
 td {
     vertical-align: top;
     font-family: 'Courier New', Courier, monospace;
     padding: 8px;
+}
+
+#product {
+    text-align: center;
+}
+
+th{
+    font-size: 25px
+}
+iframe {
+    display: block;
+    margin: auto;
 }

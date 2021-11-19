@@ -1,4 +1,6 @@
 /* Elaine-changed border*/
+/* Giselle added fonts and color(aki helped)*/
+/* Elaine added another font*/
 #navbar {
     background-color: rgb(126, 106, 201);
     border-style: hidden;
@@ -9,8 +11,15 @@
     display: inline-block;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace
+}
+
+a:hover {
+    color:blue;
+  }
 
 
+#navbar a:hover {
+    color: beige
 }
 body {
 
@@ -21,13 +30,18 @@ body {
 
 
 }
+#images {
+    text-align: left;
+}
+img{
+    text-align: left;
+}
 
 
 #navbar a {
     color: rgb(0, 0, 0);
     font-size: x-large;
-    font-family: 'Courier New', Courier, monospace
-
+    font-family: 'Amatic SC', cursive;
 }
 
 

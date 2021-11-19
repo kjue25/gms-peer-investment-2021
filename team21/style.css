@@ -1,6 +1,7 @@
 /* Vivi edited 11-1-21 */
 /* Livi edited 11-2-21 */
 /* Carina edited 11-2-21 */
+/* Fixed the side things were on */
 
 
 
@@ -162,7 +163,7 @@ h1 {
     }
     
    #music_words{
-       float: right;
+   margin:0;
    }
     body {
         background-size: 400% 400%;
@@ -171,6 +172,7 @@ h1 {
     }
 #music{
     float: right;
+    display:block;
 }
     table{
         text-align: center;

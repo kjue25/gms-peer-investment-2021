@@ -28,6 +28,7 @@ p {
     color: #f0a1bc;
     font-family: 'Dongle', sans-serif;
     font-size: 30px;
+    text-align: center;
 }
 h1 {
     color:#f28fb0 ;
@@ -49,4 +50,26 @@ h6 {
     color: #f0a1bc;
     font-family: 'Dongle', sans-serif;
     font-size: 20px;
+}
+#sizecandle {
+    width: 500px;
+}
+#cogs {
+    text-align: center;
+    font-size: 40px;
+}
+#imgcogs {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pitchvid {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dotted;
+    border-color:#f0a1bc;
+    padding: 10px;
 }

@@ -29,6 +29,9 @@
     text-align: center;
 }
 
+#COGS {
+    font-size: 24px;
+}
 #e {
     text-align: center;
 }
@@ -62,4 +65,8 @@ p {
 
 #title1 {
     text-align: center;
+}
+
+iframe{
+    align-content: center;
 }

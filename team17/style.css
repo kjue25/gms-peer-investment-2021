@@ -1,40 +1,58 @@
 h1 {
-    color: cornflowerblue;
-    font-size: 29px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-body {
+    color: #2b2b2b;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
-    background-color: rgb(174, 196, 238);
-}  
+}
+ 
+h2 {
+    color: #2b2b2b;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    border-style: groove;
+    border-width: 5px;
+    border-color: #4f4f4f; 
+}
+   
+body {
+    background-color: d1d1d1;
+    border-style: black;
 
-p {
-font-size: 19px;
 }
 
+
+ 
+p {
+    color: #2b2b2b;
+    font-size: 25px;
+    font-family:'Hi Melody', cursive;
+    text-align: center;
+
+}
+
+img {
+border-style:groove;
+border-width: 3px;
+border-color:black;
+}
 
 #navbar {
-    background-color: pink;
-    border: solid;
-    border-width: 2px;
+    background-color:d1d1d1;
+    border-style: solid;
+    border-width: 10px;
+    border-color:#4f4f4f;
     text-align: center;
-    top: 0;
-    z-index: 100;
-    }
     
-    
-    
-    #navbar li {
-    display: inline-block;
-    }
-    
-    
-    #navbar a {
-    color: pink
-    }
+}
 
-    #image { 
-    size: 300px;
-    }
-    
+#navbar li {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right:10px ;
+}
+
+#navbar a{
+font-family: 'Montserrat', sans-serif;
+text-decoration-color: whitesmoke;
+
+}

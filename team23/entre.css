@@ -1,5 +1,4 @@
-/* edited 11.9.2021 @ 10:05 am 
-worked on and edited navbar (FINISHED) and changed some text and colors*/
+/*FINAL version of entre.css completed 11/18/2021*/
 body {
   background: rgb(159,195,252);
   background: linear-gradient(90deg, rgba(159,195,252,1) 0%, rgba(197,198,253,1) 41%, rgba(243,201,255,1) 100%);
@@ -31,6 +30,7 @@ body {
 }
 #swag {
   text-align: center;
+  font-family: 'Chango', cursive;
 }
 .style {
   font-weight: bold;
@@ -69,6 +69,9 @@ body {
   border-radius: 25px;
   margin-left: 105px;
 }
+.cite {
+  text-align: center;
+}
 .e {
   text-align: center;
   margin-top: -70px;
@@ -106,7 +109,7 @@ body {
     border: 0pt;
     padding: 50px;
     margin: 20px;
-    margin-left: 500px;
+    margin-left: 525px;
     margin-top: 20;
 }
 .button {

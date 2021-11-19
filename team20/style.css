@@ -1,4 +1,7 @@
 
+#body {
+backround-color: grey;
+}
 
 #navbar {
 border-style:solid;
@@ -13,7 +16,14 @@ display: inline-block;
 #navbar a {
 color: White
 }
-#h1 {
-color: 
+# img src= "Ari.png"{
 
+width: 400
+}
+#img src= " melany.png" {
+width: 400
+}
+
+#img src= " phoniex.jpeg" {
+width: 400
 }

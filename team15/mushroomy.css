@@ -28,13 +28,12 @@ img {
 
 }     
 h2 {
-    Color: black;
+    color: black;
     text-align: bottom;
     font-size: 30;
     margin-left: 30px; 
-    border-left-style: inset;
     padding-left: 20px;
-    padding:#40434b 
+
 }      
 a {
     text-decoration-color: #6994b3 ;
@@ -59,7 +58,7 @@ h4{
 }
 p { 
     color: black;
-font-size: 20px;
+font-size: x-large;
 font-family: 'Dongle', sans-serif;
 margin-bottom: 50;
 }

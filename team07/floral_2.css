@@ -1,3 +1,4 @@
+/* Both Ayelet and Sophia worked on this */
 h1 {
     color: black;
     font-size: 60px;
@@ -36,27 +37,31 @@ img {
 }
 
 #navbar {
-    color:black
+    color:black;
+    text-align: center; 
+    border-style: dotted;
+    background-color: #ffdbee;
+}
+
+#navbar ul {
+    padding: 0;
+    text-align: center;
 }
 
 #navbar li {
     display: inline-block;
-    text-align: left;
 }
 
 #navbar a {
     text-decoration: none;
     color: black;
     text-align: center;
+    font-size: 24px;
+    font-family: 'Bad Script';
 }
 
 #navbar :hover {
    text-decoration: underline;
-}
- 
-a {
-    text-align: center;
-    color: black;
 }
 
 
