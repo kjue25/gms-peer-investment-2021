@@ -42,8 +42,9 @@ img{
 #Naomi{
     width: 50px;
 }
-#COG:hover{
-    filter: brightness(50%);
+#COG{
+width: 60%;
+height: 60%;
 }
 body{
     text-align: center;
@@ -64,3 +65,10 @@ a{
     top: 20;
     left: 80;
 }
+
+
+a:hover{
+    font-size: 30;
+    transition: .8;
+}
+

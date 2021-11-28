@@ -29,9 +29,6 @@
     text-align: center;
 }
 
-#COGS {
-    font-size: 24px;
-}
 #e {
     text-align: center;
 }
@@ -67,6 +64,27 @@ p {
     text-align: center;
 }
 
-iframe{
-    align-content: center;
+#dandlb {
+    text-align: center;
+}
+
+#logo{
+    display: block;
+    float: left;
+}
+
+#pv{
+    text-align: center;
+}
+
+#why {
+text-align: center;
+}
+
+#vid {
+    text-align: center;
+}
+
+#cogs {
+    font-size: 118;
 }

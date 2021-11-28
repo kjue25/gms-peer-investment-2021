@@ -54,6 +54,26 @@ img {
     border-color: #f7f6be
 }
 
+#logolol {
+    display: block;
+    float: left;
+    height: 55px;
+}
+
+#persuasion {
+    margin-left:100px ;
+    margin-right:100px ;
+}
+
+#fourbracelets {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+#pianonecklace{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
 /* File created by Kali K on 11/1/21 */
 /*Kali edited 11/15/21
 /* Dana deleted all images being 400px and deleted width for images on product page to not be stretched out */
