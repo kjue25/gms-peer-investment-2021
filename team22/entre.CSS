@@ -5,6 +5,7 @@
 /*Anika and Katie added the font for the <p> tags on 11/15/21*/
 /*Katie changed the background and title border color then changed the navbar font, decoration, decoration color, and size on 11/18/21*/
 /*Anika removed the decoration for the headers over the images on 11/18/21*/
+/*Katie added the code for the logo on 12/2/21*/
 
 #navbar {
     background-color: rgb(233, 233, 233);
@@ -13,14 +14,14 @@
 }
  
 #navbar li {   
-    display: inline-block
+    display: inline-block;
 }
 
 #navbar a {
     color: rgb(0, 0, 0);
     font-family: 'Dancing Script', cursive;
     font-size: 20px;
-    text-decoration: none
+    text-decoration: none;
 }
 
 #navbar a:hover {
@@ -39,7 +40,7 @@ body {
 }
 
 p {
-    font-family:  'Thasadith';
+    font-family: 'Thasadith';
 }
 
 h3 {
@@ -73,5 +74,13 @@ h2 {
 a {
     font-family: 'Thasadith';
     color: #426274;
+}
+
+#entrelogo img {
+    border-style: none;
+}
+
+li {
+    display: inline-block;
 }
 
